@@ -19,7 +19,7 @@ public class MotorcycleBuying{
 
     if(Stripes.equals("yes")){ //code to execute if answer is "yes"
       System.out.println("That will cost 250 dollars more"); 
-
+    //testing if update feature is working on .git
     }
 
   }
